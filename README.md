@@ -1,5 +1,5 @@
 <Hello World!>
-- 👋 Hi, I am RUDRAKSHA BHATTACHARJEE (@rud26dev)
+- 👋 Hi, I am RUDRAKSHA BHATTACHARJEE (@rudr06)
 - 💻 I am a student and have been learning to code for couple of years
 - 🚀 I am interested in learning new things. I especially love learning Science, Math and Programming
 - 👨‍💻 I know PYTHON, HTML and CSS. I am currently learning more about them along with KALI LINUX 
